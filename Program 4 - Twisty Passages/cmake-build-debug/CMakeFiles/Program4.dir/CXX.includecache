@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/codychinothai/CLionProjects/CS210-496/Program4/main.cpp
+iostream
+-
+stack
+-
+set
+-
+random
+-
+vector
+-
+chrono
+-
+
