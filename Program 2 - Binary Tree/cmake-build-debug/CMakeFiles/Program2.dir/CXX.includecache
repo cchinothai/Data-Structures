@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pchin/CLionProjects/Program2/BinarySearchTree.h
+memory
+-
+Map.h
+C:/Users/pchin/CLionProjects/Program2/Map.h
+
+C:/Users/pchin/CLionProjects/Program2/Map.h
+memory
+-
+Set.h
+C:/Users/pchin/CLionProjects/Program2/Set.h
+
+C:/Users/pchin/CLionProjects/Program2/Set.h
+
+C:/Users/pchin/CLionProjects/Program2/main.cpp
+iostream
+-
+iomanip
+-
+random
+-
+set
+-
+memory
+-
+BinarySearchTree.h
+C:/Users/pchin/CLionProjects/Program2/BinarySearchTree.h
+Map.h
+C:/Users/pchin/CLionProjects/Program2/Map.h
+Set.h
+C:/Users/pchin/CLionProjects/Program2/Set.h
+
