@@ -1,0 +1,3 @@
+C:/Users/pchin/CLionProjects/Program1/cmake-build-debug/CMakeFiles/Program1.dir
+C:/Users/pchin/CLionProjects/Program1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pchin/CLionProjects/Program1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pchin/CLionProjects/Program1/CircularArray.h
+Queue.h
+C:/Users/pchin/CLionProjects/Program1/Queue.h
+List.h
+C:/Users/pchin/CLionProjects/Program1/List.h
+
+C:/Users/pchin/CLionProjects/Program1/List.h
+
+C:/Users/pchin/CLionProjects/Program1/Queue.h
+
+C:/Users/pchin/CLionProjects/Program1/main.cpp
+iostream
+-
+iomanip
+-
+Queue.h
+C:/Users/pchin/CLionProjects/Program1/Queue.h
+List.h
+C:/Users/pchin/CLionProjects/Program1/List.h
+CircularArray.h
+C:/Users/pchin/CLionProjects/Program1/CircularArray.h
+
